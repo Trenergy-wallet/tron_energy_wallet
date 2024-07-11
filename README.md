@@ -17,7 +17,7 @@ The problems we encountered: to realize the discount on commissions, it is neces
 ## Screenshots
 
 
-<img src="https://raw.githubusercontent.com/Trenergy-wallet/tron_energy_wallet/main/screenshot_1.png" width="300" height="450">
+<img src="https://raw.githubusercontent.com/Trenergy-wallet/tron_energy_wallet/main/screenshot_1.png" width="200" height="430">
 
 ## Technologies Used / Getting Started
 

@@ -16,7 +16,7 @@ The problems we encountered: to realize the discount on commissions, it is neces
 
 ## Screenshots
 
-![Screenshot 1](screenshot_1)
+![Screenshot 1](screenshot_1.png)
 
 
 ## Technologies Used / Getting Started

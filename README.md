@@ -17,7 +17,7 @@ The problems we encountered: to realize the discount on commissions, it is neces
 ## Screenshots
 
 ![Screenshot 1](screenshot_1.png{width=40px height=400px})
-
+<img src="screenshot_1.png"" width="200" height="200">
 
 ## Technologies Used / Getting Started
 

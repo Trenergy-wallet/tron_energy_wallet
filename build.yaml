@@ -1,0 +1,16 @@
+targets:
+  $default:
+    builders:
+      source_gen|combining_builder:
+        options:
+          build_extensions:
+            '^lib/{{dir}}/{{file}}.cg.dart': 'lib/{{dir}}/gen/{{file}}.cg.g.dart'
+      freezed:
+        options:
+          build_extensions:
+            '^lib/{{dir}}/{{file}}.cg.dart': 'lib/{{dir}}/gen/{{file}}.cg.f.dart'
+      json_serializable:
+        options:
+          checked: true
+          explicit_to_json: true
+          field_rename: snake

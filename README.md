@@ -2,7 +2,7 @@
 
 ## General Information
 
-This is a non-custodial crypto wallet that integrates [TR.ENERGY's](https://tr.energy/en/wallet/) services. One of the most popular assets to transfer is USDT TRC-20. In order to transfer funds, you need to pay a fee with TRX. Many users are inconvenienced by this, so we decided to create a wallet where you can make transfers without having to buy TRX. In our application, you can pay the commission with USDT. Additionally, it is possible to pay the commission in TRX but at a 50% discount compared to other crypto wallets. This works because of Energy (TRON network resource). This application can also be used in standard mode, i.e., pay for transfers without discount, burning TRX.
+This is a non-custodial crypto wallet that integrates <a href="https://tr.energy/en/wallet/" target="_blank">TR.ENERGY's</a> services. One of the most popular assets to transfer is USDT TRC-20. In order to transfer funds, you need to pay a fee with TRX. Many users are inconvenienced by this, so we decided to create a wallet where you can make transfers without having to buy TRX. In our application, you can pay the commission with USDT. Additionally, it is possible to pay the commission in TRX but at a 50% discount compared to other crypto wallets. This works because of Energy (TRON network resource). This application can also be used in standard mode, i.e., pay for transfers without discount, burning TRX.
 
 The problems we encountered: to realize the discount on commissions, it is necessary to send energy to the wallet as soon as possible so that the user does not wait long for the transfer of funds. We needed to make significant changes in the system and we achieved the speed of delegating energy in 3-10 seconds.
 
